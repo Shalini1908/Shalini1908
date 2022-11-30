@@ -2,7 +2,7 @@
 ![MasterHead](https://www.charpeni.com/static/images/arrow-functions-in-class-properties-might-not-be-as-great-as-we-think/banner.gif)
 <h1 align="center">Hi 👋, I'm Shalini Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src= "https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif" width ="400px" align ="right"/>
+<img src= "https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width ="700px" align ="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini1908&label=Profile%20views&color=0e75b6&style=flat" alt="shalini1908" /> </p>
 
