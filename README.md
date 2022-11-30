@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini1908&label=Profile%20views&color=0e75b6&style=flat" alt="shalini1908" /> </p>
 
 
-<img src= "https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width ="40%" height="390px" align ="right"/>
+<img src= "https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width ="40%" height="260px" align ="right"/>
 - 🔭 I’m currently working on **Theme Project**
 
 - 🌱 I’m currently learning **MERN**
