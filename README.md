@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini1908&label=Profile%20views&color=0e75b6&style=flat" alt="shalini1908" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalini1908" alt="shalini1908" /></a> </p> -->
 
+<img src= "https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width ="40%" height="390px" align ="right"/>
 - 🔭 I’m currently working on **Theme Project**
 
 - 🌱 I’m currently learning **MERN**
@@ -14,7 +14,7 @@
 - 💬 Ask me about **JavaScript , CSS and HTML**
 
 - 📫 How to reach me **singhparmar1908@gmail.com**
-<img src= "https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width ="100%" height="490px" align ="right"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,5 +27,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shalini1908&show_icons=true&locale=en&layout=compact" alt="shalini1908" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalini1908&" alt="shalini1908" /></p>
+
+<!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shalini1908" alt="shalini1908" /></a> </p>  -->
 
 
