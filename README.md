@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shalini1908&label=Profile%20views&color=0e75b6&style=flat" alt="shalini1908" /> </p>
 
 
-<img src= "https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" width ="40%" height="260px" align ="right"/>
+<img src= "https://camo.githubusercontent.com/26647de33fe1227a701256ff1917a9d5ea2146c4aed4e8e8f011eee17fb14f78/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66642f61372f63302f66646137633031386462396130396666306564323334393537653962323562392e676966" width ="40%" height="260px" align ="right"/>
 
 
 
