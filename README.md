@@ -19,7 +19,9 @@
 - BigBite Cloned Website of [Kind Meal](https://glittering-lamington-a7bf4c.netlify.app/)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width ="20%" height="80px" align ="right"></h3>
+
+
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shalini-singh-705277257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shalini-singh-705277257/" height="30" width="40" /></a>
 </p>
