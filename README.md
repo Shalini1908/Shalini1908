@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Node JS**
 
 - 💬 Ask me about **ReactJS, JavaScript , CSS and HTML**
 
