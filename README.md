@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **ReactJS, JavaScript , CSS and HTML**
+- 💬 Ask me about **ReactJS, Redux, JavaScript , CSS and HTML**
 
 - 📫 How to reach me **singhparmar1908@gmail.com**
 
