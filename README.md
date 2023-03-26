@@ -16,7 +16,7 @@
 
 -  Crystal Villas Cloned Website of [Trip Villas](https://venerable-beignet-fdbc14.netlify.app/)
 
-- BigBite Cloned Website of [Kind Meal](https://glittering-lamington-a7bf4c.netlify.app/)
+- Trendsy Cloned Website of [Myntra](https://trendsy.vercel.app/)
 
 
 <h3 align="left">Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width ="20%" height="80px" align ="right"></h3>
