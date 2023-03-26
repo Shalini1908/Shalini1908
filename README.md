@@ -8,9 +8,9 @@
 
 
 
-- 🌱 I’m currently learning **Node JS**
+<!-- - 🌱 I’m currently learning **** -->
 
-- 💬 Ask me about **ReactJS, Redux, JavaScript , CSS and HTML**
+- 💬 Ask me about **MongoDB, ExpressJS NextJS, ReactJS, Redux, JavaScript , CSS and HTML**
 
 - 📫 How to reach me **singhparmar1908@gmail.com**
 
