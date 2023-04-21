@@ -8,15 +8,16 @@
 
 
 
-<!-- - 🌱 I’m currently learning **** -->
+- 🌱 I’m currently learning Three.js and D3.js
 
-- 💬 Ask me about **MongoDB, ExpressJS NextJS, ReactJS, Redux, JavaScript , CSS and HTML**
+- 💬 Ask me about **MongoDB, ExpressJS NextJS, ReactJS, Redux, JavaScript , CSS and HTML , Chakra UI , Adobe Photoshop**
 
 - 📫 How to reach me **singhparmar1908@gmail.com**
 
+- Trendsy Cloned Website of [Myntra](https://trendsy.vercel.app/)
+
 -  Crystal Villas Cloned Website of [Trip Villas](https://venerable-beignet-fdbc14.netlify.app/)
 
-- Trendsy Cloned Website of [Myntra](https://trendsy.vercel.app/)
 
 
 <h3 align="left">Connect with me:<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width ="20%" height="80px" align ="right"></h3>
