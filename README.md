@@ -6,9 +6,8 @@
 
 <img src= "https://camo.githubusercontent.com/26647de33fe1227a701256ff1917a9d5ea2146c4aed4e8e8f011eee17fb14f78/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66642f61372f63302f66646137633031386462396130396666306564323334393537653962323562392e676966" width ="40%" height="260px" align ="right"/>
 
-
-<!-- 
-- 🌱 I’m currently looking for job -->
+ 
+- 🌱 I’m currently learnig MySQL
 
 - 💬 Ask me about **MongoDB, ExpressJS NextJS, ReactJS, Redux, JavaScript , CSS and HTML , Chakra UI , Adobe Photoshop**
 
