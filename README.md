@@ -9,7 +9,7 @@
  
 - 🌱 I’m currently learnig MySQL
 
-- 💬 Ask me about **MongoDB, ExpressJS NextJS, ReactJS, Redux, JavaScript , CSS and HTML , Chakra UI , Adobe Photoshop**
+- 💬 Ask me about **MongoDB ,MySQL, Postgres, GraphQL,Redis, ExpressJS NextJS, ReactJS, Redux, JavaScript ,Typescript, CSS and HTML , Chakra UI , Adobe Photoshop**
 
 - 📫 How to reach me **singhparmar1908@gmail.com**
 
