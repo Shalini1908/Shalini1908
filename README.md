@@ -15,7 +15,7 @@
 
 - Trendsy Cloned Website of [Myntra](https://trendsy.vercel.app/)
 
--  Crystal Villas Cloned Website of [Trip Villas](https://venerable-beignet-fdbc14.netlify.app/)
+-  Crystal Villas Cloned Website of [Wishkart](https://wishkart-j34d.vercel.app/)
 
 
 
